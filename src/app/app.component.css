@@ -1,0 +1,11 @@
+.center{
+    margin-top:100px;
+    margin-bottom:60px;
+    margin-left:300px;
+
+    width: 50% !important; 
+}
+
+.mt-0 {
+    margin-top: 0 !important;
+  }
